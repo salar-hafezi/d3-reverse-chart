@@ -4,7 +4,7 @@ A d3 area chart with reverse axes, focus+context zooming and panning.
 Features:
   - Y vertical axis and X horizontal axis
   - zoom and pan capability using brushY
-  - offline rendering from a CSV file
+  - realtime rendering
 # Run instructions:
   ## 1. Install node
   * Detailed instructions on how to install and configure Node.js is available on [thier site](https://nodejs.org/en/)
