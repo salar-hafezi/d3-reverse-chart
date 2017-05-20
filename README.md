@@ -4,6 +4,7 @@ A d3 area chart with reverse axes, focus+context zooming and panning.
 Features:
   - Y vertical axis and X horizontal axis
   - zoom and pan capability using brushY
+  - mouse marker
   - realtime rendering
 # Run instructions:
   ## 1. Install node
