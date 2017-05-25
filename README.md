@@ -6,7 +6,7 @@ Features:
   - zoom and pan capability using brushY
   - mouse marker
   - realtime rendering
-  - based on d3 v4.*
+  - based on d3 v4.* but also backward compatible
 # Run instructions:
   ## 1. Install node
   * Detailed instructions on how to install and configure Node.js is available on [thier site](https://nodejs.org/en/)
