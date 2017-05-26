@@ -1,5 +1,5 @@
 # d3-reverse-chart
-A d3 area chart with reverse axes, focus+context zooming and panning.
+A d3 area chart with reverse axes, focus+context zooming and panning
 <br />
 Features:
   - Y vertical axis and X horizontal axis
